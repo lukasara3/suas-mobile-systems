@@ -1,0 +1,15 @@
+<?xml version ="1.0" encoding ="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+    <item
+        android:id="@+id/itemDo"
+        android:ico="@drawable/outline_clock_loader_1-_24"
+        android:title="DoSomething"
+        app:showAsAction ="always" />
+    <item
+        android:id="@+id/itemSave"
+        android:title="Save Value" />
+    <item
+        android:id="@+id/itemLoad"
+        android:title="Load Value" />
+</menu>
